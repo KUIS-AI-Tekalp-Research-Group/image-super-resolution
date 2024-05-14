@@ -6,6 +6,7 @@ This repository provides the recent research projects conducted on image super-r
 ### Paper: 
 Cansu Korkmaz, A. Murat Tekalp and Zafer Dogan, ["Training Generative Image Super-Resolution Models by Wavelet-Domain Losses Enables Better Control of Artifacts"](https://arxiv.org/pdf/2402.19215.pdf), in Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), June, 2024.
 ### :octocat: Code: https://github.com/mandalinadagi/WGSR
+### 📀 [Youtube Video](https://www.youtube.com/watch?v=S3UugbDTxYs)
 ### Citation: 
 ```
 @inproceedings{korkmaz2024training,
